@@ -15,7 +15,7 @@ nav {
     display: flex;
     justify-content: space-around;
     position: relative;
-    gap: 200px;
+    gap: 50px;
     padding: 30px;
 }
 
